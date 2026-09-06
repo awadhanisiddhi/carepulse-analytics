@@ -1,0 +1,101 @@
+doctor_id,doctor_name,department_id,specialization,experience_years
+DOC001,Dr. Chaaya Krishnamurthy,D004,Neonatologist,22
+DOC002,Dr. Ridhi Dasgupta,D004,Child Specialist,16
+DOC003,Dr. Yasti Patel,D009,Dermatologist,19
+DOC004,Dr. Samaksh Maharaj,D004,Neonatologist,14
+DOC005,Dr. Ladli Krishna,D001,Cardiac Surgeon,7
+DOC006,Dr. Anthony Kapoor,D007,Gynecologist,30
+DOC007,Dr. Gautam Parekh,D005,Internal Medicine Specialist,27
+DOC008,Dr. Anika Sathe,D006,Trauma Specialist,26
+DOC009,Dr. Daniel Chakrabarti,D005,General Physician,9
+DOC010,Dr. Raghav Savant,D006,Emergency Physician,17
+DOC011,Dr. Arya Sibal,D007,Reproductive Health Specialist,11
+DOC012,Dr. Timothy Kakar,D007,Gynecologist,18
+DOC013,Dr. Falguni Rajagopalan,D005,Internal Medicine Specialist,22
+DOC014,Dr. Ati Sathe,D009,Cosmetologist,12
+DOC015,Dr. Joshua Chandra,D010,Hepatologist,20
+DOC016,Dr. Nilima Narang,D006,Critical Care Specialist,18
+DOC017,Dr. Teerth Sandhu,D005,Internal Medicine Specialist,2
+DOC018,Dr. Yauvani Karpe,D008,Medical Oncologist,18
+DOC019,Dr. Veda Gole,D005,General Physician,6
+DOC020,Dr. Samaksh Din,D010,Hepatologist,14
+DOC021,Dr. Girik Oommen,D003,Joint Replacement Specialist,13
+DOC022,Dr. Sara Mann,D003,Orthopedic Surgeon,22
+DOC023,Dr. Christopher Seshadri,D006,Trauma Specialist,7
+DOC024,Dr. Jagdish Bhargava,D010,GI Surgeon,25
+DOC025,Dr. Jacob Rastogi,D007,Obstetrician,4
+DOC026,Dr. Prisha Jayaraman,D003,Orthopedic Surgeon,19
+DOC027,Dr. Zaid Zachariah,D008,Medical Oncologist,28
+DOC028,Dr. Chatura Devan,D006,Trauma Specialist,21
+DOC029,Dr. Varsha Batra,D001,Cardiac Surgeon,7
+DOC030,Dr. Jack Mannan,D008,Radiation Oncologist,30
+DOC031,Dr. Chavvi Minhas,D010,Gastroenterologist,4
+DOC032,Dr. Vinaya Baral,D004,Child Specialist,15
+DOC033,Dr. Yug Chacko,D001,Interventional Cardiologist,10
+DOC034,Dr. Wridesh Dewan,D006,Trauma Specialist,9
+DOC035,Dr. Ayush Walla,D001,Cardiologist,18
+DOC036,Dr. Saanvi Mukherjee,D005,General Physician,13
+DOC037,Dr. Amara Nadkarni,D007,Obstetrician,20
+DOC038,Dr. Harsh Batta,D004,Pediatrician,22
+DOC039,Dr. Tristan Dada,D001,Cardiac Surgeon,22
+DOC040,Dr. Aishani Balan,D008,Medical Oncologist,23
+DOC041,Dr. Advik Shetty,D004,Child Specialist,27
+DOC042,Dr. Edhitha Deol,D005,Internal Medicine Specialist,28
+DOC043,Dr. Baljiwan Mutti,D008,Radiation Oncologist,23
+DOC044,Dr. Azad Gupta,D008,Radiation Oncologist,10
+DOC045,Dr. Luke Natarajan,D010,Hepatologist,29
+DOC046,Dr. Nitesh Gandhi,D009,Cosmetologist,20
+DOC047,Dr. Bhavya Chandra,D003,Orthopedic Surgeon,19
+DOC048,Dr. Charan Som,D007,Reproductive Health Specialist,18
+DOC049,Dr. Niharika Bakshi,D003,Sports Medicine Specialist,23
+DOC050,Dr. Odika Lalla,D007,Obstetrician,27
+DOC051,Dr. Umang Ram,D005,Internal Medicine Specialist,19
+DOC052,Dr. Gunbir Jhaveri,D003,Orthopedic Surgeon,18
+DOC053,Dr. Hemani Naik,D002,Neurosurgeon,23
+DOC054,Dr. Lipika Bedi,D007,Reproductive Health Specialist,23
+DOC055,Dr. Chakrika Karan,D001,Cardiac Surgeon,8
+DOC056,Dr. Madhavi Khosla,D001,Cardiac Surgeon,24
+DOC057,Dr. Eesha Balasubramanian,D003,Sports Medicine Specialist,5
+DOC058,Dr. Vyanjana Shan,D005,General Physician,11
+DOC059,Dr. Urvashi Venkatesh,D007,Obstetrician,15
+DOC060,Dr. Anusha Kalita,D004,Pediatrician,26
+DOC061,Dr. Yasti Bobal,D006,Critical Care Specialist,14
+DOC062,Dr. Chasmum Mann,D008,Radiation Oncologist,30
+DOC063,Dr. Lakshmi Parekh,D003,Sports Medicine Specialist,26
+DOC064,Dr. Ucchal Varma,D010,GI Surgeon,6
+DOC065,Dr. Madhav Khalsa,D008,Medical Oncologist,21
+DOC066,Dr. Harshil Borah,D007,Obstetrician,18
+DOC067,Dr. Aachal Basak,D008,Oncologist,3
+DOC068,Dr. Qushi Lala,D002,Neurophysician,14
+DOC069,Dr. Harini Pall,D005,Internal Medicine Specialist,19
+DOC070,Dr. Dev Chahal,D003,Joint Replacement Specialist,27
+DOC071,Dr. Ishanvi Sood,D009,Dermatologic Surgeon,11
+DOC072,Dr. Dayamai Dara,D002,Neurologist,24
+DOC073,Dr. Karan Tara,D005,General Physician,9
+DOC074,Dr. Vaishnavi Pandey,D002,Neurologist,9
+DOC075,Dr. Qasim Upadhyay,D002,Neurophysician,11
+DOC076,Dr. Bhavika Radhakrishnan,D009,Dermatologist,20
+DOC077,Dr. Darpan Atwal,D008,Radiation Oncologist,25
+DOC078,Dr. Zehaan Bath,D010,Gastroenterologist,22
+DOC079,Dr. Caleb Khatri,D001,Interventional Cardiologist,23
+DOC080,Dr. Krishna Ganguly,D006,Trauma Specialist,3
+DOC081,Dr. Advaith Saini,D010,Gastroenterologist,4
+DOC082,Dr. Finn Gola,D001,Cardiac Surgeon,17
+DOC083,Dr. Yoshita Mukherjee,D001,Cardiologist,4
+DOC084,Dr. Eshana Dash,D009,Cosmetologist,22
+DOC085,Dr. Naveen Parekh,D001,Interventional Cardiologist,2
+DOC086,Dr. Dayita Sawhney,D002,Neurologist,19
+DOC087,Dr. Tara Kaur,D002,Neurophysician,3
+DOC088,Dr. Priya Karpe,D005,General Physician,5
+DOC089,Dr. Sudiksha Misra,D008,Medical Oncologist,8
+DOC090,Dr. Samaksh Pathak,D005,Internal Medicine Specialist,20
+DOC091,Dr. Vasudha Morar,D007,Obstetrician,13
+DOC092,Dr. Noah Ben,D001,Cardiologist,10
+DOC093,Dr. Ishaan Hora,D002,Neurophysician,16
+DOC094,Dr. Arjun Kibe,D005,Internal Medicine Specialist,28
+DOC095,Dr. Amruta Parikh,D003,Joint Replacement Specialist,3
+DOC096,Dr. Ekiya Tiwari,D010,Gastroenterologist,16
+DOC097,Dr. Yochana Sule,D008,Medical Oncologist,23
+DOC098,Dr. Hitesh Nadig,D002,Neurophysician,21
+DOC099,Dr. Harinakshi Mall,D002,Neurosurgeon,23
+DOC100,Dr. Warjas Manda,D010,Gastroenterologist,12

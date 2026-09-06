@@ -1,0 +1,11 @@
+department_id,department_name,bed_capacity
+D001,Cardiology,50
+D002,Neurology,40
+D003,Orthopedics,60
+D004,Pediatrics,50
+D005,General Medicine,80
+D006,Emergency,70
+D007,Gynecology,40
+D008,Oncology,35
+D009,Dermatology,25
+D010,Gastroenterology,50
